@@ -1,0 +1,4 @@
+2023-06-07T12:54:50+00:00 CRITICAL Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in C:\xampp\htdocs\porto\wp-content\plugins\porto-functionality\elementor\elements\porto_section.php on line 468
+
+2023-06-07T12:56:09+00:00 CRITICAL Access level to Porto_Elementor_Section::get_html_tag() must be protected (as in class Elementor\Element_Section) or weaker in C:\xampp\htdocs\porto\wp-content\plugins\porto-functionality\elementor\elements\porto_section.php on line 468
+
